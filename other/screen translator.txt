@@ -1,0 +1,6 @@
+https://github.com/shuuji3/cloud-screen-translation
+https://github.com/infinyte7/Screen-Translator
+https://pypi.org/project/pyugt/
+
+http://capture2text.sourceforge.net/
+https://sourceforge.net/projects/capture2text/files/Capture2Text/

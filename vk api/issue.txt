@@ -1,0 +1,48 @@
+<!-- Символом _ выделены места, куда вводить информацию. Комментарии можно оставить -->
+
+Житель Украины, для авторизации использовал прокси. В случае входа через номер+пароль (даже верного пароля) получаю исключение vk_api.exceptions.BadPassword: Bad password. Пробовал вход через токен - vk_api.exceptions.ApiError: [29] Rate limit reached
+Есть шансы на успех?
+
+
+### Окружение
+<!--
+Добавьте версию vk_api. Можно получить через:
+python3 -c "import vk_api;print(vk_api.__version__)"
+-->
+vk_api: 11.9.0
+
+<!--
+Версию используемого API и версию API для ботов (указывается в настройках сообщества)
+-->
+API: ? не использую ?
+
+### Тестировал прокси на работоспособность вот так
+
+```python
+link = "https://api.vk.com/method/users.get?user_id=210700286&v=5.52"
+response = requests.get(link, proxies = proxies)
+jsonResponce = response.json()
+print(jsonResponce)
+```
+
+### При указании верных данных все равно vk_api.exceptions.BadPassword: Bad password
+<!-- Добавьте небольшой пример кода, с которым можно повторить проблему -->
+```python
+proxies = {
+    'https': 'https://51.161.116.223:3128'
+}
+
+s = requests.Session()
+s.proxies.update(proxies)
+
+vk_session = vk_api.VkApi('номер', 'пароль', session=s)
+vk_session.auth()
+
+vk = vk_session.get_api()
+```
+
+### Авторизация используя токен vk_api.exceptions.ApiError: [29] Rate limit reached
+```python
+token = vk_api.VkApi(token=tokenData, session=s)
+vk = token.get_api()
+```

@@ -1,0 +1,32 @@
+Windows Registry Editor Version 5.00
+
+; https://thisdavej.com/right-click-on-windows-folder-and-open-with-visual-studio-code/
+; D:\\Games\\Microsoft VS Code\\Code.exe
+
+; Open files
+[HKEY_CLASSES_ROOT\*\shell\Open with VS Code]
+@="Edit with VS Code"
+"Icon"="D:\\Games\\Microsoft VS Code\\Code.exe,0"
+
+[HKEY_CLASSES_ROOT\*\shell\Open with VS Code\command]
+@="\"D:\\Games\\Microsoft VS Code\\Code.exe\" \"%1\""
+
+; This will make it appear when you right click ON a folder
+; The "Icon" line can be removed if you don't want the icon to appear
+
+[HKEY_CLASSES_ROOT\Directory\shell\vscode]
+@="Open Folder as VS Code Project"
+"Icon"="\"D:\\Games\\Microsoft VS Code\\Code.exe\",0"
+
+[HKEY_CLASSES_ROOT\Directory\shell\vscode\command]
+@="\"D:\\Games\\Microsoft VS Code\\Code.exe\" \"%1\""
+
+; This will make it appear when you right click INSIDE a folder
+; The "Icon" line can be removed if you don't want the icon to appear
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\vscode]
+@="Open Folder as VS Code Project"
+"Icon"="\"D:\\Games\\Microsoft VS Code\\Code.exe\",0"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\vscode\command]
+@="\"D:\\Games\\Microsoft VS Code\\Code.exe\" \"%V\"
