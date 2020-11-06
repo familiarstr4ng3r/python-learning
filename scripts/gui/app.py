@@ -1,14 +1,13 @@
 import tkinter as tk
 from tkinter import messagebox
-import numpy as np
-import pyscreenshot as ImageGrab
+import pyscreenshot as ImageGrab        # creating image 
+import pytesseract                      # text recognition
+import pyperclip                        # copying text to clipboard
 #import cv2
-import pytesseract
-from PIL import Image
+#import numpy as np
+#from PIL import Image
 
-root = tk.Tk()
 
-fileName = "image1.png"
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 alpha = 0.2
@@ -24,10 +23,6 @@ screenY = 0
 
 endX = 0
 endY = 0
-
-# def onClick():
-#     text = field.get()
-#     messagebox.showinfo(title = 'msg box', message = text)
 
 def motionAction(event):
     dashes = (2, 2)
@@ -67,6 +62,9 @@ def onDrag(e):
 def makeImage():
     box = (screenX, screenY, endX, endY)
     image = ImageGrab.grab(box)
+
+    #fileName = "image1.png"
+
     #image.save(fileName)
 
     #screen = np.array(box)
@@ -76,36 +74,29 @@ def makeImage():
 
     #image = Image.open(fileName)
     
-    text = pytesseract.image_to_string(image)#, lang='eng')
+    text = pytesseract.image_to_string(image, lang='eng')
     text = text.strip()
-    if (len(text) > 0):
-        #print(text)
-        messagebox.showinfo(title = 'msg box', message = text)
 
-#root['bg'] = '#fafafa'
-root.title('how to hack ass')
+    if (len(text) > 0):
+        messagebox.showinfo(title = 'Converted text', message = text)
+        pyperclip.copy(text)
+
+root = tk.Tk()
+root.title('Simple OCR by Mondi')
 root.wm_attributes('-alpha', alpha)
 #root.wm_attributes("-topmost", True)
-
 root.geometry(f'{width}x{height}')
-
 #root.resizable(width = False, height = False)
 
-
-canvas = tk.Canvas(root, width = width - offset, height = height - offset, bg = "gray") #AAB7B8
-canvas.pack()
+canvas = tk.Canvas(root, width = width - offset, height = height - offset, bg = "gray")
+#canvas.pack()
+canvas.place(relwidth = 1, relheight = 1)
 
 canvas.bind('<Motion>', motionAction)
 root.bind('<ButtonPress-1>', onPress)
 root.bind('<ButtonRelease-1>', onRelease)
 root.bind('<B1-Motion>', onDrag)
 
-#btn = tk.Button(root, text = "Click me", fg = "yellow", bg = "green", command = onClick)
-#btn.pack()
-
-#field = tk.Entry(root, bg = "white")
-#field.pack()
-
 root.mainloop()
 
-print('app closed')
+#print('app closed')
