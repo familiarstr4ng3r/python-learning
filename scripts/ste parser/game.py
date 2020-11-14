@@ -32,4 +32,4 @@ class Game:
         return length > 0
 
     def __repr__(self):
-        return f'{self.name} = {self.cards.__repr__()}'
+        return f'{self.name} : {self.tradableCards.__repr__()}'

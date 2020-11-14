@@ -3,15 +3,18 @@ from card import Card
 
 import requests                         # pip install requests
 from bs4 import BeautifulSoup           # pip install beautifulsoup4
-import datetime                         # default library
 
 class Parser:
+
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36'}
 
     ids = []
     baseUri = 'https://www.steamcardexchange.net/index.php?inventorygame-appid-'
     games = []
     tradableGames = []
 
+    responseCodes = []
+    
     def __init__(self, ids):
         self.ids = ids
 
@@ -27,32 +30,19 @@ class Parser:
             if g.isValid():
                 self.tradableGames.append(g)
 
-        l = len(self.tradableGames)
-        #print("len is " + str(l))
-        #for g in self.tradableGames:
-        #    print(g)
-        
-        now = datetime.datetime.now()
-        timeText = now.strftime('%H:%M:%S')
-        msg = f'Found {l} tradable games'
-
-        result = {}
-        result['time'] = timeText
-        result['count'] = msg
-        result['games'] = []
-
+        """
         for g in self.tradableGames:
             cardNames = [card.name for card in g.tradableCards]
             #infoText = g.name + ": " + cardNames.__str__()
             infoText = f'{g.name}: {cardNames}' # {g.cards} 
             #print(infoText)
             result['games'].append(infoText)
-
-        return result
+        """
 
     def parse(self, onDownload = None):
 
         self.games.clear()
+        self.responseCodes.clear()
 
         for i, id in enumerate(self.ids):
             g = self.parseGame(self.baseUri + id)
@@ -81,6 +71,8 @@ class Parser:
             
     def parseGame(self, uri):
         response = requests.get(uri)
+        self.responseCodes.append(response.status_code)
+
         html = BeautifulSoup(response.content, 'html.parser')
         gameName = self.getGameName(html)
         gameCards = self.getGameCards(html)
