@@ -1,0 +1,20 @@
+#
+cd "directory"
+pyinstaller -F gui.py
+-w: for non console apps / -F: to single file
+pyinstaller -i "absolute path" gui.py
+
+#
+pyinstaller.exe --onefile --icon=icon.ico gui.py
+
+
+C:
+Dude use --windowed or -w
+Then it will hide the console.
+Or just use auto-py-to-exe...
+
+R:
+--noconsole also works
+
+#
+pyinstaller --onefile -w gui.py
