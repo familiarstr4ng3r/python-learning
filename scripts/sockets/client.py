@@ -7,10 +7,16 @@ ADDR = (SERVER, PORT)
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = '!DISCONNECT'
 
-client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-client.connect(ADDR)
-
 connected = False
+
+try:
+    client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    client.connect(ADDR)
+except ConnectionRefusedError:
+    print ('Server is offline')
+    #quit(0)
+else:
+    connected = True
 
 def handleServer():
     global connected
@@ -21,8 +27,11 @@ def handleServer():
 
 def main():
     global connected
-    connected = True
 
+    if not connected:
+        print ('Could not connect to server. Quitting the program')
+        quit(0)
+    
     thread = threading.Thread(target = handleServer)
     thread.start()
 
