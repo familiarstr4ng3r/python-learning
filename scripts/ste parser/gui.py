@@ -87,19 +87,31 @@ def onClear():
     parseContinuously = False
     btnClear['state'] = tk.DISABLED
 
+def onClick_clear():
+    textbox.delete(1.0, tk.END)
+    root.focus()
+
+spacing = 10
+button_spacing = 4
+
 frame = ttk.Frame(root)
-frame.pack(fill = tk.X, padx = 10, pady = 10)
+frame.pack(fill = tk.X, padx = spacing, pady = spacing)
 
 fillbar = ttk.Progressbar(frame)
-fillbar.pack(fill = tk.X, expand = tk.TRUE)
+fillbar.pack(fill = tk.X, expand = tk.TRUE, pady = (0, spacing))
+
+btnErase = ttk.Button(frame, text = "Clear")
+btnErase.config(command = onClick_clear)
+btnErase.pack(side = tk.BOTTOM, fill = tk.X, expand = tk.TRUE, pady = (button_spacing, 0))
 
 btnParse = ttk.Button(frame, text = "Parse")
 btnParse.config(command = parse)
-btnParse.pack(side = tk.LEFT, fill = tk.X, expand = tk.TRUE, padx = 0, pady = 0, ipadx = 0, ipady = 0)
+btnParse.pack(side = tk.LEFT, fill = tk.X, expand = tk.TRUE, padx = (0, button_spacing / 2))
 
 btnClear = ttk.Button(frame, text = "Stop")
 btnClear.config(command = onClear, state = tk.DISABLED)
-btnClear.pack(side = tk.LEFT, fill = tk.X, expand = tk.TRUE, padx = 0, pady = 0, ipadx = 0, ipady = 0)
+btnClear.pack(side = tk.LEFT, fill = tk.X, expand = tk.TRUE, padx = (button_spacing / 2, 0))
+
 
 """
 scrollbar = tk.Scrollbar(root)
