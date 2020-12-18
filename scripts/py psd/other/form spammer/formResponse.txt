@@ -1,0 +1,59 @@
+https://curl.trillworks.com/
+
+curl "https://docs.google.com/forms/d/e/1FAIpQLSeI3-jkg0oedRXECibaxbGZiFyOHGYjvNiOXcADBK9Qq__gUg/formResponse" ^
+  -H "authority: docs.google.com" ^
+  -H "cache-control: max-age=0" ^
+  -H "upgrade-insecure-requests: 1" ^
+  -H "origin: https://docs.google.com" ^
+  -H "content-type: application/x-www-form-urlencoded" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" ^
+  -H "sec-fetch-site: same-origin" ^
+  -H "sec-fetch-mode: navigate" ^
+  -H "sec-fetch-user: ?1" ^
+  -H "sec-fetch-dest: document" ^
+  -H "referer: https://docs.google.com/forms/d/e/1FAIpQLSeI3-jkg0oedRXECibaxbGZiFyOHGYjvNiOXcADBK9Qq__gUg/viewform?fbzx=-6092611553661795655" ^
+  -H "accept-language: ru-RU,ru;q=0.9" ^
+  -H "cookie: S=spreadsheet_forms=t57WH_KJ-gdyaQDRBxqK2-7XeHEdkIXWu5H3nqlam9Q; 1P_JAR=2020-12-16-06; NID=205=SWPlivBZkpeOhrOMqIJOGjaX86R6POP6ODBhg5EjssgSGfdMuB5MnJW64RllcYjrYhzWlO-q_0I1Fxx9K4OqZ4iMVf5GR9wCjD713R2zXbs0NXHLpjzdVfmdHWTvT4c9RUARc6UZr2A-QB_bKR4JjuZ5P838UP79Bdq_yTkjHyA" ^
+  --data-raw "entry.386860893=Python^&entry.386860893_sentinel=^&fvv=1^&draftResponse=^%^5Bnull^%^2Cnull^%^2C^%^22-6092611553661795655^%^22^%^5D^%^0D^%^0A^&pageHistory=0^&fbzx=-6092611553661795655" ^
+  --compressed
+
+
+curl 'https://docs.google.com/forms/d/e/1FAIpQLSeI3-jkg0oedRXECibaxbGZiFyOHGYjvNiOXcADBK9Qq__gUg/formResponse' \
+-H 'authority: docs.google.com' \
+-H 'cache-control: max-age=0' \
+-H 'upgrade-insecure-requests: 1' \
+-H 'origin: https://docs.google.com' \
+-H 'content-type: application/x-www-form-urlencoded' \
+-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36' \
+-H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+-H 'sec-fetch-site: same-origin' \
+-H 'sec-fetch-mode: navigate' \
+-H 'sec-fetch-user: ?1' \
+-H 'sec-fetch-dest: document' \
+-H 'referer: https://docs.google.com/forms/d/e/1FAIpQLSeI3-jkg0oedRXECibaxbGZiFyOHGYjvNiOXcADBK9Qq__gUg/viewform?fbzx=-6092611553661795655' \
+-H 'accept-language: ru-RU,ru;q=0.9' \
+-H 'cookie: S=spreadsheet_forms=t57WH_KJ-gdyaQDRBxqK2-7XeHEdkIXWu5H3nqlam9Q; 1P_JAR=2020-12-16-06; NID=205=SWPlivBZkpeOhrOMqIJOGjaX86R6POP6ODBhg5EjssgSGfdMuB5MnJW64RllcYjrYhzWlO-q_0I1Fxx9K4OqZ4iMVf5GR9wCjD713R2zXbs0NXHLpjzdVfmdHWTvT4c9RUARc6UZr2A-QB_bKR4JjuZ5P838UP79Bdq_yTkjHyA' \
+--data-raw 'entry.386860893=Python&entry.386860893_sentinel=&fvv=1&draftResponse=%5Bnull%2Cnull%2C%22-6092611553661795655%22%5D%0D%0A&pageHistory=0&fbzx=-6092611553661795655' \
+--compressed
+
+curl "https://docs.google.com/forms/d/e/1FAIpQLSfcOxN-ZQsV_QWrmhLGMT_jSr161QB5AKnsYe41JaW1uvvVLg/formResponse" ^
+  -H "authority: docs.google.com" ^
+  -H "cache-control: max-age=0" ^
+  -H "upgrade-insecure-requests: 1" ^
+  -H "origin: https://docs.google.com" ^
+  -H "content-type: application/x-www-form-urlencoded" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" ^
+  -H "sec-fetch-site: same-origin" ^
+  -H "sec-fetch-mode: navigate" ^
+  -H "sec-fetch-user: ?1" ^
+  -H "sec-fetch-dest: document" ^
+  -H "referer: https://docs.google.com/forms/d/1oeGDNdMcUjrKyrqCFMLDsNsX4k_3laYXEeBlcIhYG4I/viewform?edit_requested=true^&fbzx=-4095922830933011899" ^
+  -H "accept-language: ru-RU,ru;q=0.9" ^
+  -H "cookie: S=spreadsheet_forms=w9S8Az_mn6KMaqmAT7So01JEcIkAYNp9MbmNZqjVMNE; 1P_JAR=2020-12-16-06; NID=205=Sarb3QQCT6k57ZH_1hzvrcFi88N2pPLAxgWrx4HnflCSfMfeHKle-0U_SBVfOe__0Ts1iDeSgIpzFp6Q-qCpM-JyG2BZ3Gq4dDbbVAGZpoTt_MUO1nmJrsa5l1IOdiLbn8_szFe0oUc3QkWKfobCxfOYbSuaJ74K2mVgWg1csS8; ANID=AHWqTUmO1hwdol9G0FxPD_BXw8hI5lAmzRZmB4r0GNPCMkMXUOFuHVwH3aDvejnz" ^
+  --data-raw "entry.1204442546=2+^%^D0^%^BA^%^D1^%^83^%^D1^%^80^%^D1^%^81^&entry.1844174236=^%^D0^%^BC^%^D0^%^BE^%^D0^%^B6^%^D0^%^BB^%^D0^%^B8^%^D0^%^B2^%^D1^%^96^%^D1^%^81^%^D1^%^82^%^D1^%^8C+^%^D0^%^BF^%^D1^%^80^%^D0^%^BE^%^D0^%^B4^%^D0^%^BE^%^D0^%^B2^%^D0^%^B6^%^D0^%^B5^%^D0^%^BD^%^D0^%^BD^%^D1^%^8F+^%^D1^%^83+^%^D1^%^87^%^D0^%^B0^%^D1^%^81^%^D1^%^96+^%^D0^%^B7^%^D0^%^B0^%^D1^%^81^%^D0^%^B2^%^D0^%^BE^%^D1^%^94^%^D0^%^BD^%^D0^%^BD^%^D1^%^8F+^%^D0^%^BC^%^D0^%^B0^%^D1^%^82^%^D0^%^B5^%^D1^%^80^%^D1^%^96^%^D0^%^B0^%^D0^%^BB^%^D1^%^83^&entry.1031937997=^%^D0^%^A1^%^D0^%^BA^%^D0^%^BE^%^D1^%^80^%^D1^%^96^%^D1^%^88^%^D0^%^B5+^%^D0^%^B7^%^D0^%^B0^%^D0^%^B4^%^D0^%^BE^%^D0^%^B2^%^D0^%^BE^%^D0^%^BB^%^D0^%^B5^%^D0^%^BD^%^D0^%^B8^%^D0^%^B9^&entry.1204442546_sentinel=^&entry.1844174236_sentinel=^&entry.1031937997_sentinel=^&fvv=1^&draftResponse=^%^5Bnull^%^2Cnull^%^2C^%^22-4095922830933011899^%^22^%^5D^%^0D^%^0A^&pageHistory=0^&fbzx=-4095922830933011899" ^
+  --compressed
+
+
+  data-params="%.@.[1194990568,&quot;3. Наскільки Ви задоволені технологіями дистанційного навчання, які застосовуються в університеті (в умовах карантину)?&quot;,null,2,[[1605296874,[[&quot;Повністю задоволений&quot;,null,null,null,false],[&quot;Скоріше задоволений&quot;,null,null,null,false],[&quot;Десь посередині, 50 / 50&quot;,null,null,null,false],[&quot;Скоріше не задоволений&quot;,null,null,null,false],[&quot;Категорично не задоволений&quot;,null,null,null,false],[&quot;&quot;,null,null,null,true]],true,[],[],null,null,null,false,null,[null,[]]]],null,null,null,[]],&quot;i49&quot;,&quot;i50&quot;,&quot;i51&quot;,false]" 

@@ -1,0 +1,2 @@
+;Russian;English;Ukrainian
+key_alice;Алисочка;Alice;Аліса
