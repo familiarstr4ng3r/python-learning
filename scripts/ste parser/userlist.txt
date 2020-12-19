@@ -6,7 +6,7 @@
 322330	# Don't Starve Together
 599140	# Graveyard Keeper
 250400	# How to Survive
-550		# Left 4 Dead 2
+#550		# Left 4 Dead 2
 266010	# LYNE
 238320	# Outlast
 24240	# PAYDAY: The Heist

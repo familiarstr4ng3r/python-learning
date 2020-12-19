@@ -73,8 +73,9 @@ def makeImage():
     #image = cv2.imread(fileName)
 
     #image = Image.open(fileName)
-    
-    text = pytesseract.image_to_string(image, lang='eng')
+
+    # eng, rus
+    text = pytesseract.image_to_string(image, lang='ukr')
     text = text.strip()
 
     if (len(text) > 0):

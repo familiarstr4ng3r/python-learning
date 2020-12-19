@@ -124,7 +124,7 @@ textbox.config(yscrollcommand = scrollbar.set)
 scrollbar.config(command = textbox.yview)
 """
 
-textFont = ('Tahoma', 12)
+textFont = ('Tahoma', 10)
 
 textbox = ScrolledText(root, width = 30, height = 10, font = textFont)
 textbox.pack(fill = tk.BOTH, expand = tk.TRUE)
