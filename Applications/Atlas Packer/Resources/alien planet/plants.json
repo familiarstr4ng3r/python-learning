@@ -1,0 +1,68 @@
+{
+    "save_path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Atlases/Plants",
+    "folders": [
+        {
+            "filename": "alien_tree_4_leaves.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Plants/alien_tree_4_leaves",
+            "grid_x": 4,
+            "grid_y": 1,
+            "divisibility": 400
+        },
+		{
+            "filename": "basket_plant.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Plants/basket_plant",
+            "grid_x": 6,
+            "grid_y": 1,
+            "divisibility": 400
+        },
+		{
+            "filename": "flower_plant.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Plants/flower_plant",
+            "grid_x": 6,
+            "grid_y": 1,
+            "divisibility": 400
+        },
+		{
+            "filename": "plant_1_left.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Plants/plant_1_left",
+            "grid_x": 7,
+            "grid_y": 1,
+            "divisibility": 400
+        },
+		{
+            "filename": "plant_1_mid.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Plants/plant_1_mid",
+            "grid_x": 7,
+            "grid_y": 1,
+            "divisibility": 400
+        },
+		{
+            "filename": "plant_1_right.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Plants/plant_1_right",
+            "grid_x": 7,
+            "grid_y": 1,
+            "divisibility": 400
+        },
+		{
+            "filename": "plant_2.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Plants/plant_2",
+            "grid_x": 6,
+            "grid_y": 1,
+            "divisibility": 400
+        },
+		{
+            "filename": "plant_3.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Plants/plant_3",
+            "grid_x": 5,
+            "grid_y": 1,
+            "divisibility": 400
+        },
+		{
+            "filename": "small_plant.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Plants/small_plant",
+            "grid_x": 4,
+            "grid_y": 1,
+            "divisibility": 400
+        }
+    ]
+}

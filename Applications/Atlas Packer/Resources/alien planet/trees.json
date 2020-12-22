@@ -1,0 +1,34 @@
+{
+    "save_path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Atlases/Trees",
+    "folders": [
+        {
+            "filename": "Tree 1.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Midground tree/1",
+            "grid_x": 4,
+            "grid_y": 1,
+            "divisibility": 400
+        },
+		{
+            "filename": "Tree 2.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Midground tree/2",
+            "grid_x": 4,
+            "grid_y": 1,
+            "divisibility": 400
+        },
+		{
+            "filename": "Tree 3.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Midground tree/3",
+            "grid_x": 4,
+            "grid_y": 1,
+            "divisibility": 400
+        },
+		{
+            "filename": "Tree 4.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Alien Planet/Parts/Midground tree/4",
+            "grid_x": 4,
+            "grid_y": 1,
+            "divisibility": 400
+        }
+		
+    ]
+}

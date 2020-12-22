@@ -1,0 +1,23 @@
+{
+    "save_path": "C:/Users/User/Desktop/2D RUNNER/parts/Prehistoric/Atlases/Trees",
+    "folders": [
+        {
+            "filename": "Tree 1.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Prehistoric/Parts/....",
+            "grid_x": 4,
+            "grid_y": 1,
+			"pivot_x": 0.5,
+			"pivot_y": 0.5,
+			"same_size": true,
+            "divisibility": 400
+        },
+		{
+            "filename": "Tree 1.png",
+            "path": "C:/Users/User/Desktop/2D RUNNER/parts/Prehistoric/Parts/....",
+            "grid": [4, 1],
+			"pivot": [0.5, 0.5],
+			"same_size": true,
+            "divisibility": 400
+        }
+    ]
+}
