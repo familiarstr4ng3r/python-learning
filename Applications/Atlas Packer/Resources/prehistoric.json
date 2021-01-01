@@ -1,0 +1,118 @@
+{
+    "save_path": "C:/Users/User/Desktop/2D RUNNER/parts/Prehistoric/Atlases",
+	"base_path": "C:/Users/User/Desktop/2D RUNNER/parts/Prehistoric/Parts",
+    "folders": [
+        {
+            "filename": "foreground_rocks.png",
+            "path": "foreground_rocks",
+            "grid": [3, 2],
+            "pivot": [0.5, 0.5],
+			"same_size": false,
+            "divisibility": 400
+        },
+		{
+            "filename": "palm_1 down.png",
+            "path": "palm_1 down",
+            "grid": [2, 3],
+            "pivot": [0.5, 0],
+			"same_size": false,
+            "divisibility": 400
+        },
+		{
+            "filename": "palm_1 up.png",
+            "path": "palm_1 up",
+            "grid": [5, 1],
+            "pivot": [0.5, 0.5],
+			"same_size": true,
+            "divisibility": 400
+        },
+		{
+            "filename": "palm_2 down.png",
+            "path": "palm_2 down",
+            "grid": [2, 2],
+            "pivot": [0.5, 0],
+			"same_size": false,
+            "divisibility": 400
+        },
+		{
+            "filename": "palm_2 up.png",
+            "path": "palm_2 up",
+            "grid": [5, 1],
+            "pivot": [0.5, 0.5],
+			"same_size": true,
+            "divisibility": 400
+        },
+		{
+            "filename": "palm_3 down.png",
+            "path": "palm_3 down",
+            "grid": [2, 1],
+            "pivot": [0.5, 0],
+			"same_size": false,
+            "divisibility": 400
+        },
+		{
+            "filename": "palm_3 up.png",
+            "path": "palm_3 up",
+            "grid": [3, 1],
+            "pivot": [0.5, 0.5],
+			"same_size": true,
+            "divisibility": 400
+        },
+		{
+            "filename": "palm_4 down.png",
+            "path": "palm_4 down",
+            "grid": [4, 3],
+            "pivot": [0.5, 0],
+			"same_size": false,
+            "divisibility": 400
+        },
+		{
+            "filename": "palm_4 up.png",
+            "path": "palm_4 up",
+            "grid": [3, 3],
+            "pivot": [0.5, 0.5],
+			"same_size": false,
+            "divisibility": 400
+        },
+		{
+            "filename": "plant_3.png",
+            "path": "plant_3",
+            "grid": [3, 2],
+            "pivot": [0.5, 0],
+			"same_size": false,
+            "divisibility": 400
+        },
+		{
+            "filename": "plant_4 large.png",
+            "path": "plant_4/large",
+            "grid": [5, 2],
+            "pivot": [0.5, 0],
+			"same_size": false,
+            "divisibility": 400
+        },
+		{
+            "filename": "plant_4 small.png",
+            "path": "plant_4/small",
+            "grid": [5, 2],
+            "pivot": [0.5, 0],
+			"same_size": false,
+            "divisibility": 400
+        },
+		{
+            "filename": "plant_5.png",
+            "path": "plant_5",
+            "grid": [3, 2],
+            "pivot": [0.5, 0.5],
+			"same_size": false,
+            "divisibility": 400
+        },
+		{
+            "filename": "stones.png",
+            "path": "stones",
+            "grid": [2, 3],
+            "pivot": [0.5, 0],
+			"same_size": false,
+            "divisibility": 400
+        }
+    ]
+}
