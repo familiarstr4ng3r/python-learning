@@ -1,0 +1,131 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Email template | Change.org</title><style id="head-styles" type="text/css">
+      body {
+  width: 100% !important; }
+
+.ReadMsgBody {
+  width: 100%; }
+
+.ExternalClass {
+  width: 100%; }
+
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+  line-height: 100%; }
+
+table,
+td {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt; }
+
+img {
+  -ms-interpolation-mode: bicubic;
+  max-width: 480px !important; }
+
+body,
+table,
+td,
+p,
+a,
+li,
+blockquote {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0; }
+
+table td {
+  border-collapse: collapse !important; }
+
+.footer-hide-link a {
+  color: #737273 !important;
+  text-decoration: none !important; }
+
+.responsive-full-width {
+  width: 480px; }
+
+@media only screen and (max-device-width: 500px) {
+  *[class="responsive-full-width"] {
+    width: 100% !important; }
+  *[class~="responsive-content-width"] {
+    width: 100% !important;
+    max-width: 100% !important; }
+  img {
+    max-width: 100% !important; }
+  *[class~="hidden-xs"] {
+    display: none !important; }
+  *[class~="visible-xs-block"] {
+    display: block !important; }
+  *[class~="visible-xs-inline"] {
+    display: inline !important; }
+  *[class~="visible-xs-table-row"] {
+    display: table-row !important; } }
+
+@media only screen and (max-width: 500px) {
+  *[class="responsive-full-width"] {
+    width: 100% !important; }
+  *[class~="responsive-content-width"] {
+    width: 100% !important;
+    max-width: 100% !important; }
+  img {
+    max-width: 100% !important; }
+  *[class~="hidden-xs"] {
+    display: none !important; }
+  *[class~="visible-xs-block"] {
+    display: block !important; }
+  *[class~="visible-xs-inline"] {
+    display: inline !important; }
+  *[class~="visible-xs-table-row"] {
+    display: table-row !important; } }
+
+.responsive-width-txt {
+  width: 70%; }
+  @media only screen and (max-device-width: 500px) {
+    .responsive-width-txt {
+      width: 60%; } }
+  @media only screen and (max-width: 500px) {
+    .responsive-width-txt {
+      width: 60%; } }
+
+.responsive-width-img {
+  width: 30%; }
+  @media only screen and (max-device-width: 500px) {
+    .responsive-width-img {
+      width: 40%; } }
+  @media only screen and (max-width: 500px) {
+    .responsive-width-img {
+      width: 40%; } }
+
+    </style></head><body align="center" width="100%" style="-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;background-color:#ffffff;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;margin:0;padding:0;">
+<div style="color:transparent;visibility:hidden;opacity:0;font-size:0px;border:0;max-height:1px;width:1px;margin:0px;padding:0px;border-width:0px!important;display:none!important;line-height:0px!important;"><img border="0" width="1" height="1" src="https://click.e.change.org/q/la55QSRnMRaENmpLXJKuZA~~/AANj1QA~/RgRh0vWYPVcDc3BjQgpf65hw8F99UQ6EUhc4Ynp4cHI2Zjc5QDFzZWNtYWlsLmNvbVgEAAAAAg~~"/></div>
+<table align="center" border="0" cellpadding="24" cellspacing="0" width="100%"><tr><td style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><table align="center" border="0" cellpadding="0" cellspacing="0" class="responsive-full-width" width="480"><tr><td style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="spacer" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1px;line-height:1px !important;padding:0;"><img class="spacer" src="https://assets.change.org/photos/email/Templates/spacer1.gif" height="24" width="1" border="0" style="-ms-interpolation-mode:bicubic;border:none;display:block;font-size:1px;height:24px !important;line-height:1px !important;max-width:100%;outline:none;padding:0;text-decoration:none;"/></td></tr><tr><td align="center" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><table border="0" cellpadding="0" cellspacing="0"><tr><td align="center" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><a href="https://click.e.change.org/f/a/oUSAQSV1Zo88jbvfNEuY5A~~/AANj1QA~/RgRh0vWYP0SraHR0cHM6Ly93d3cuY2hhbmdlLm9yZz9jc190az0mdXRtX2NhbXBhaWduPWM0NzI2OTcxZWQ0YTRhMzM5MGM4MTQzNTE2YzNmZWFlJnV0bV9jb250ZW50PWluaXRpYWxfdjBfMF8yJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wZXRpdGlvbl9zaWduZXJfY29uZmlybWF0aW9uJnV0bV90ZXJtPWNzVwNzcGNCCl_rmHDwX31RDoRSFzhienhwcjZmNzlAMXNlY21haWwuY29tWAQAAAAC" style="color:#ec2c22;text-decoration:underline;"><img class="logo" src="https://static.change.org/email/change-logo-106-22.png" alt="Change.org" width="106" height="22" style="-ms-interpolation-mode:bicubic;border:none !important;display:block;height:22px !important;max-width:100%;outline:none;text-decoration:none;width:106px !important;"/></a></td></tr></table></td></tr><tr><td class="spacer" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1px;line-height:1px !important;padding:0;"><img class="spacer" src="https://assets.change.org/photos/email/Templates/spacer1.gif" height="36" width="1" border="0" style="-ms-interpolation-mode:bicubic;border:none;display:block;font-size:1px;height:36px !important;line-height:1px !important;max-width:100%;outline:none;padding:0;text-decoration:none;"/></td></tr><tr><td align="left" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><p style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;margin-bottom:0;margin-top:0;mso-line-height-rule:exactly;">Здравствуйте Михаил,</p><p style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;margin-bottom:0;margin-top:16px;mso-line-height-rule:exactly;">Для того, чтобы подписать петицию &quot;Внесите правки в закон «О цифровых финансовых активах», который блокирует кошелек Steam&quot;, пожалуйста, подтвердите ваш email адрес:</p></td></tr><tr><td class="spacer" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1px;line-height:1px !important;padding:0;"><img class="spacer" src="https://assets.change.org/photos/email/Templates/spacer1.gif" height="12" width="1" border="0" style="-ms-interpolation-mode:bicubic;border:none;display:block;font-size:1px;height:12px !important;line-height:1px !important;max-width:100%;outline:none;padding:0;text-decoration:none;"/></td></tr><tr><td align="left" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><table class="border" cellpadding="0" width="100%" style="border:solid 1px #dbd9db;border-radius:5px;"><tr width="100%"><td align="left" valign="top" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;padding-bottom:12px;padding-left:12px;padding-top:12px;"><span class="type-s type-weak" style="color:#737273;font-size:13px;line-height:19px;">
+          Направлено: Steam, Совет Федерации, Госдума
+        </span><h4 style="font-size:16px;font-weight:bold;line-height:20px;margin:0;"><a class="link link-stealth" href="https://click.e.change.org/f/a/QDtDeE7pVP3znY-SZi74zw~~/AANj1QA~/RgRh0vWYP4RkAWh0dHBzOi8vd3d3LmNoYW5nZS5vcmcvcC_RgdC-0LLQtdGCLdGE0LXQtNC10YDQsNGG0LjQuC3QstC90LXRgdC40YLQtS3Qv9GA0LDQstC60Lgt0LIt0LfQsNC60L7QvS3Qvi3RhtC40YTRgNC-0LLRi9GFLdGE0LjQvdCw0L3RgdC-0LLRi9GFLdCw0LrRgtC40LLQsNGFLdC60L7RgtC-0YDRi9C5LdCx0LvQvtC60LjRgNGD0LXRgi3QutC-0YjQtdC70LXQui1zdGVhbT9jc190az0mdXRtX2NhbXBhaWduPWM0NzI2OTcxZWQ0YTRhMzM5MGM4MTQzNTE2YzNmZWFlJnV0bV9jb250ZW50PWluaXRpYWxfdjBfMF8yJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wZXRpdGlvbl9zaWduZXJfY29uZmlybWF0aW9uJnV0bV90ZXJtPWNzVwNzcGNCCl_rmHDwX31RDoRSFzhienhwcjZmNzlAMXNlY21haWwuY29tWAQAAAAC" style="color:#363135;text-decoration:none !important;">
+            Внесите правки в закон «О цифровых финансовых активах», который блокирует кошелек Steam
+          </a></h4></td><td valign="top" align="right" width="128" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;padding-bottom:12px;padding-left:12px;padding-right:12px;padding-top:12px;"><a href="https://click.e.change.org/f/a/QDtDeE7pVP3znY-SZi74zw~~/AANj1QA~/RgRh0vWYP4RkAWh0dHBzOi8vd3d3LmNoYW5nZS5vcmcvcC_RgdC-0LLQtdGCLdGE0LXQtNC10YDQsNGG0LjQuC3QstC90LXRgdC40YLQtS3Qv9GA0LDQstC60Lgt0LIt0LfQsNC60L7QvS3Qvi3RhtC40YTRgNC-0LLRi9GFLdGE0LjQvdCw0L3RgdC-0LLRi9GFLdCw0LrRgtC40LLQsNGFLdC60L7RgtC-0YDRi9C5LdCx0LvQvtC60LjRgNGD0LXRgi3QutC-0YjQtdC70LXQui1zdGVhbT9jc190az0mdXRtX2NhbXBhaWduPWM0NzI2OTcxZWQ0YTRhMzM5MGM4MTQzNTE2YzNmZWFlJnV0bV9jb250ZW50PWluaXRpYWxfdjBfMF8yJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wZXRpdGlvbl9zaWduZXJfY29uZmlybWF0aW9uJnV0bV90ZXJtPWNzVwNzcGNCCl_rmHDwX31RDoRSFzhienhwcjZmNzlAMXNlY21haWwuY29tWAQAAAAC" style="color:#ec2c22;text-decoration:underline;"><img class="petition-card-img" src="https://assets.change.org/photos/7/eg/ce/nkegCeFBbMSAxik-800x450-noPad.jpg?1609592984" height="72" style="-ms-interpolation-mode:bicubic;border:none !important;display:block !important;height:72px !important;margin-left:auto !important;margin-right:auto !important;max-width:100%;outline:none;text-decoration:none;width:auto !important;"/></a></td></tr></table></td></tr><tr><td class="spacer" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1px;line-height:1px !important;padding:0;"><img class="spacer" src="https://assets.change.org/photos/email/Templates/spacer1.gif" height="12" width="1" border="0" style="-ms-interpolation-mode:bicubic;border:none;display:block;font-size:1px;height:12px !important;line-height:1px !important;max-width:100%;outline:none;padding:0;text-decoration:none;"/></td></tr><tr><td style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;padding-bottom:16px;padding-left:0px;padding-right:0px;padding-top:16px;width:100%;"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><tr><td align="left" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><table align="center" border="0" cellpadding="0" cellspacing="0" class="button" width="100%"><tr><td align="center" bgcolor="#ec2c22" class="button" style="-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><a href="https://click.e.change.org/f/a/HM81fPYlXKM7L1ImxYx1ug~~/AANj1QA~/RgRh0vWYP4SiAWh0dHBzOi8vd3d3LmNoYW5nZS5vcmcvcC_RgdC-0LLQtdGCLdGE0LXQtNC10YDQsNGG0LjQuC3QstC90LXRgdC40YLQtS3Qv9GA0LDQstC60Lgt0LIt0LfQsNC60L7QvS3Qvi3RhtC40YTRgNC-0LLRi9GFLdGE0LjQvdCw0L3RgdC-0LLRi9GFLdCw0LrRgtC40LLQsNGFLdC60L7RgtC-0YDRi9C5LdCx0LvQvtC60LjRgNGD0LXRgi3QutC-0YjQtdC70LXQui1zdGVhbS9zaWduYXR1cmVzL2NvbmZpcm0_Y3NfdGs9JnRva2VuPTRkMjVhMWI1LTQzMzUtNDFhOC1iYWEwLWI0MjM3OTA0OGY3MiZ1dG1fY2FtcGFpZ249YzQ3MjY5NzFlZDRhNGEzMzkwYzgxNDM1MTZjM2ZlYWUmdXRtX2NvbnRlbnQ9aW5pdGlhbF92MF8wXzImdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXBldGl0aW9uX3NpZ25lcl9jb25maXJtYXRpb24mdXRtX3Rlcm09Y3NXA3NwY0IKX-uYcPBffVEOhFIXOGJ6eHByNmY3OUAxc2VjbWFpbC5jb21YBAAAAAI~" style="-moz-border-radius:5px;-webkit-border-radius:5px;border:1px solid #ec2c22;border-radius:5px;color:#ffffff;display:block;font-weight:bold;line-height:18px;padding:12px 18px;text-decoration:none;">Подтвердите ваш email aдрес</a></td></tr></table></td></tr></td></tr></table></td></tr><tr><td class="spacer" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1px;line-height:1px !important;padding:0;"><img class="spacer" src="https://assets.change.org/photos/email/Templates/spacer1.gif" height="12" width="1" border="0" style="-ms-interpolation-mode:bicubic;border:none;display:block;font-size:1px;height:12px !important;line-height:1px !important;max-width:100%;outline:none;padding:0;text-decoration:none;"/></td></tr><tr><td style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><table border="0" cellpadding="0" cellspacing="0"><tr><td align="left" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;">
+          Или вставьте эту ссылку в свой браузер:
+    <p class="type-break-word" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;margin-bottom:0;margin-top:0;max-width:100%;mso-line-height-rule:exactly;word-break:break-all;word-wrap:break-word;"><a href="https://click.e.change.org/f/a/HM81fPYlXKM7L1ImxYx1ug~~/AANj1QA~/RgRh0vWYP4SiAWh0dHBzOi8vd3d3LmNoYW5nZS5vcmcvcC_RgdC-0LLQtdGCLdGE0LXQtNC10YDQsNGG0LjQuC3QstC90LXRgdC40YLQtS3Qv9GA0LDQstC60Lgt0LIt0LfQsNC60L7QvS3Qvi3RhtC40YTRgNC-0LLRi9GFLdGE0LjQvdCw0L3RgdC-0LLRi9GFLdCw0LrRgtC40LLQsNGFLdC60L7RgtC-0YDRi9C5LdCx0LvQvtC60LjRgNGD0LXRgi3QutC-0YjQtdC70LXQui1zdGVhbS9zaWduYXR1cmVzL2NvbmZpcm0_Y3NfdGs9JnRva2VuPTRkMjVhMWI1LTQzMzUtNDFhOC1iYWEwLWI0MjM3OTA0OGY3MiZ1dG1fY2FtcGFpZ249YzQ3MjY5NzFlZDRhNGEzMzkwYzgxNDM1MTZjM2ZlYWUmdXRtX2NvbnRlbnQ9aW5pdGlhbF92MF8wXzImdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXBldGl0aW9uX3NpZ25lcl9jb25maXJtYXRpb24mdXRtX3Rlcm09Y3NXA3NwY0IKX-uYcPBffVEOhFIXOGJ6eHByNmY3OUAxc2VjbWFpbC5jb21YBAAAAAI~" style="color:#ec2c22;text-decoration:underline;">
+        https://www.change.org/p/совет-федерации-внесите-правки-в-закон-о-цифровых-финансовых-активах-который-блокирует-кошелек-steam/signatures/confirm?token=4d25a1b5-4335-41a8-baa0-b42379048f72
+      </a></p></td></tr></table></td></tr><tr><td class="spacer" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1px;line-height:1px !important;padding:0;"><img class="spacer" src="https://assets.change.org/photos/email/Templates/spacer1.gif" height="12" width="1" border="0" style="-ms-interpolation-mode:bicubic;border:none;display:block;font-size:1px;height:12px !important;line-height:1px !important;max-width:100%;outline:none;padding:0;text-decoration:none;"/></td></tr><tr><td align="left" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><p style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;margin-bottom:0;margin-top:0;mso-line-height-rule:exactly;">
+    Спасибо за вашу поддержку!
+    <br/>
+    — Команда Change.org
+  </p></td></tr><tr><td class="spacer" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1px;line-height:1px !important;padding:0;"><img class="spacer" src="https://assets.change.org/photos/email/Templates/spacer1.gif" height="12" width="1" border="0" style="-ms-interpolation-mode:bicubic;border:none;display:block;font-size:1px;height:12px !important;line-height:1px !important;max-width:100%;outline:none;padding:0;text-decoration:none;"/></td></tr><tr><td class="spacer" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1px;line-height:1px !important;padding:0;"><img class="spacer" src="https://assets.change.org/photos/email/Templates/spacer1.gif" height="12" width="1" border="0" style="-ms-interpolation-mode:bicubic;border:none;display:block;font-size:1px;height:12px !important;line-height:1px !important;max-width:100%;outline:none;padding:0;text-decoration:none;"/></td></tr><tr><td class="rule" width="100%" style="background-color:#dbd9db;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1px;height:1px !important;line-height:1px;margin:0;padding:0;"></td></tr><tr><td class="spacer" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1px;line-height:1px !important;padding:0;"><img class="spacer" src="https://assets.change.org/photos/email/Templates/spacer1.gif" height="12" width="1" border="0" style="-ms-interpolation-mode:bicubic;border:none;display:block;font-size:1px;height:12px !important;line-height:1px !important;max-width:100%;outline:none;padding:0;text-decoration:none;"/></td></tr><tr><td align="left" class="footer" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;line-height:24px;"><p class="type-weak type-s" style="color:#737273;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:13px;line-height:19px;margin-bottom:0;margin-top:0;mso-line-height-rule:exactly;"><a href="https://click.e.change.org/f/a/JpRmGOKpwax8gTshA5V0Ow~~/AANj1QA~/RgRh0vWYP0S5aHR0cHM6Ly93d3cuY2hhbmdlLm9yZy9hYm91dC9wcml2YWN5P2NzX3RrPSZ1dG1fY2FtcGFpZ249YzQ3MjY5NzFlZDRhNGEzMzkwYzgxNDM1MTZjM2ZlYWUmdXRtX2NvbnRlbnQ9aW5pdGlhbF92MF8wXzImdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXBldGl0aW9uX3NpZ25lcl9jb25maXJtYXRpb24mdXRtX3Rlcm09Y3NXA3NwY0IKX-uYcPBffVEOhFIXOGJ6eHByNmY3OUAxc2VjbWFpbC5jb21YBAAAAAI~" style="color:#737273;text-decoration:underline;">
+    Политика конфиденциальности
+  </a></p><p class="type-weak type-s" style="color:#737273;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:13px;line-height:19px;margin-bottom:0;margin-top:16px;mso-line-height-rule:exactly;"><span>
+    Ваше мнение важно для нас и мы будем рады его услышать!
+  
+  <a href="https://click.e.change.org/f/a/bk9C9TeYFwSPKr0oh4KmKQ~~/AANj1QA~/RgRh0vWYP0S7aHR0cHM6Ly9oZWxwLmNoYW5nZS5vcmcvcy8_Y3NfdGs9Jmxhbmd1YWdlPXJ1JnV0bV9jYW1wYWlnbj1jNDcyNjk3MWVkNGE0YTMzOTBjODE0MzUxNmMzZmVhZSZ1dG1fY29udGVudD1pbml0aWFsX3YwXzBfMiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cGV0aXRpb25fc2lnbmVyX2NvbmZpcm1hdGlvbiZ1dG1fdGVybT1jc1cDc3BjQgpf65hw8F99UQ6EUhc4Ynp4cHI2Zjc5QDFzZWNtYWlsLmNvbVgEAAAAAg~~">Свяжитесь</a> с нашим Центром поддержки.
+  
+</span></p><p class="type-weak type-s" style="color:#737273;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:13px;line-height:19px;margin-bottom:0;margin-top:16px;mso-line-height-rule:exactly;"><span class="footer-hide-link">
+    Change.org
+  </span>
+   · 
+  <span class="footer-hide-link">
+    548 Market St #29993, San Francisco, CA 94104-5401, США
+  </span></p></td></tr><tr><td class="spacer" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1px;line-height:1px !important;padding:0;"><img class="spacer" src="https://assets.change.org/photos/email/Templates/spacer1.gif" height="24" width="1" border="0" style="-ms-interpolation-mode:bicubic;border:none;display:block;font-size:1px;height:24px !important;line-height:1px !important;max-width:100%;outline:none;padding:0;text-decoration:none;"/></td></tr></table></td></tr></table></td></tr></table>
+<img border="0" width="1" height="1" alt="" src="https://click.e.change.org/q/TtEpbKiW_ywqh8qgcY5hsQ~~/AANj1QA~/RgRh0vWYPlcDc3BjQgpf65hw8F99UQ6EUhc4Ynp4cHI2Zjc5QDFzZWNtYWlsLmNvbVgEAAAAAg~~">
+</body></html>
