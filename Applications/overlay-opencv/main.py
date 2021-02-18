@@ -50,11 +50,15 @@ def mouse_event(event, x, y, flags, param):
       text = pytesseract.image_to_string(roi, lang="eng")
       text = text.strip()
       success = len(text) > 0
-      if not success: text = "Undefined"
-      else: text = translator.translate(text, dest="ru").text
+	  
+      confirm = win32ui.MessageBox(text, "Press OK to translate", win32con.MB_YESNO)
+      
+      if confirm == win32con.IDYES:
+        if not success: text = "Undefined"
+        else: text = translator.translate(text, dest="ru").text
 
-      #print(text)
-      win32ui.MessageBox(text, "Cucumber")
+        #print(text)
+        win32ui.MessageBox(text, "Cucumber")
 
       # ! https://www.youtube.com/watch?v=2WR3wMt6V2k
       #cv2.displayOverlay(window_name, text, 3000)
@@ -104,7 +108,7 @@ def show_window():
 
 def loop_action():
   while True:
-    if keyboard.is_pressed("s"):
+    if keyboard.is_pressed("p"):
       #cv2.destroyAllWindows()
       show_window()
 
